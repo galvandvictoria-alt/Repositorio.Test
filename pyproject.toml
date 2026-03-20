@@ -1,0 +1,21 @@
+[project]
+name = "example_package_METAHEURISTICAS"
+version = "0.0.1"
+authors = [
+  { name="GOMEZ LINARES ENRIQUE ANAEL", email="enrique.gomez@edu.uaa.mx" },
+  { name="GALVAN DELGADILLO VICTORIA", email="galvand.victoria@gmail.com" },
+
+]
+description = "A small example package"
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "MIT"
+license-files = ["LICENSE"]
+
+[project.urls]
+Homepage = "https://github.com/galvandvictoria-alt/Repositorio.Test"
+Issues = "https://github.com/pypa/sampleproject/issues"
