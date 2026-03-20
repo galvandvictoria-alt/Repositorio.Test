@@ -1,0 +1,33 @@
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+*$py.class
+# Extensiones C
+*.so
+# Archivos de distribución/paquetes
+Python
+build/
+dist/
+*.egg-info/
+eggs/
+# Entornos virtuales
+env/
+venv/
+env/
+venv/
+# Configuraciones locales y logs
+*.log
+local_settings.py
+# Archivos de pruebas y cobertura
+tox/
+nox/
+coverage
+pytest_cache/
+# Checkpoints de Jupyter Notebook
+ipynb_checkpoints/
+# Configuración de IDEs/editores
+idea/
+vscode/
+# Otros archivos generados automáticamente
+*.spec
+*.manifest
