@@ -10,5 +10,3 @@ def md(A:np.ndarray, B:np.ndarray) -> float:
         float: |(a0-b0)+...+(a_n-b_n)|
     """
     return np.abs(np.sum(A-B))
-
-md()
